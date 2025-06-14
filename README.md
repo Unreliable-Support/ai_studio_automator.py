@@ -43,7 +43,7 @@ This application is built with Python 3. You will need to install several extern
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/ai-studio-automator.git
+    git clone https://github.com/Unreliable-Support/ai-studio-automator.git
     cd ai-studio-automator
     ```
 
