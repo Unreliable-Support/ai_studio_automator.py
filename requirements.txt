@@ -1,0 +1,10 @@
+# Core Libraries
+PyPDF2
+tkinterdnd2
+
+# Automation & Clipboard
+pyautogui
+pyperclip
+
+# Windows-specific for file object copying
+pywin32; sys_platform == 'win32'
